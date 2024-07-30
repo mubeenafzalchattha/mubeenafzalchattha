@@ -11,7 +11,7 @@ Hi, I write. Mostly code. Sometimes about Code stories. Based in Dubai. Ping me 
 * ✉️  You can contact me at [mubeenccww@gmail.com](mailto:mubeenccww@gmail.com)
 * 🚀  I'm currently working on [SNIFF](http://dosniff.com)
 * 🧠  I'm learning Func | TON
-* 🤝  I'm open to collaborating on Convince me with your story. Tech stack I can manage.
+* 🤝  I'm open to collaborations on "Convince me with your story. Tech stack I can manage" 🫠
 * ⚡  I am secretly a venom. He forced me to write this.
 
 ### Skills

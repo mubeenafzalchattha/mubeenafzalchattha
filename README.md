@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Learner. Developer. Writer
 --------------------------
 
-Hi, I write. Mostly code. Sometimes about Code stories. Based in Dubai. Ping me if you are nearby 🗼 Mubeen write mostly in Javascript and Solidity. Comfortable using NodeJs and GraphQL with SQL and NoSQL. Sometimes she write in English too. Currently working on [SNIFF 🌿](http://mubeenafzalchattha.com)
+Hi, I write. Mostly code. Sometimes about Code stories. Based in Dubai. Ping me if you are nearby 🗼 Mubeen write mostly in Javascript and Solidity. Comfortable using NodeJs and GraphQL with SQL and NoSQL. Sometimes she write in English too. Currently working on [SNIFF 🌿](https://dosniff.com)
 
 * 🌍  I'm based in Dubai, UAE
 * 🖥️  See my portfolio at [🤌🏻](http://mubeenafzalchattha.com)

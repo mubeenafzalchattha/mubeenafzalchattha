@@ -9,7 +9,7 @@ Hi, I write. Mostly code. Sometimes about Code stories. Based in Dubai. Ping me 
 * 🌍  I'm based in Dubai, UAE
 * 🖥️  See my portfolio at [🤌🏻](http://mubeenafzalchattha.com)
 * ✉️  You can contact me at [mubeenccww@gmail.com](mailto:mubeenccww@gmail.com)
-* 🚀  I'm currently working on [SNIFF](http://dosniff.com)
+* 🚀  I'm currently working on [SNIFF](https://sniff.so) [Viral Bucket](https://myviralbucket.com) [bookish.world](https://bookish.world)
 * 🧠  I'm learning Func | TON
 * 🤝  I'm open to collaborations on "Convince me with your story. Tech stack I can manage" 🫠
 * ⚡  I am secretly a venom. He forced me to write this.

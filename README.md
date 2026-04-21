@@ -4,12 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Learner. Developer. Writer
 --------------------------
 
-Hi, I write. Mostly code. Sometimes about Code stories. Based in Dubai. Ping me if you are nearby 🗼 Mubeen write mostly in Javascript and Solidity. Comfortable using NodeJs and GraphQL with SQL and NoSQL. Sometimes she write in English too. Currently working on [SNIFF 🌿](https://dosniff.com)
+Hi, I write. Mostly code. Sometimes about Code stories. Based in Dubai. Ping me if you are nearby 🗼 Mubeen writes mostly in JavaScript and Solidity. Comfortable using NodeJs and GraphQL with SQL and NoSQL. Sometimes she writes in English too. Currently working on [SNIFF 🌿](https://sniff.so)
 
 * 🌍  I'm based in Dubai, UAE
-* 🖥️  See my portfolio at [🤌🏻](http://mubeenafzalchattha.com)
+* 🖥️  See my portfolio at [🤌🏻](https://misschattha.com)
 * ✉️  You can contact me at [mubeenccww@gmail.com](mailto:mubeenccww@gmail.com)
-* 🚀  I'm currently working on [SNIFF](https://sniff.so) [Viral Bucket](https://myviralbucket.com) [bookish.world](https://bookish.world)
+* 🚀  I'm currently working on
+  . [SNIFF🌿](https://sniff.so)
+  . [Viral Bucket 🥡](https://myviralbucket.com)
+  . [bookish.world 📚](https://bookish.world)
 * 🧠  I'm learning Func | TON
 * 🤝  I'm open to collaborations on "Convince me with your story. Tech stack I can manage" 🫠
 * ⚡  I am secretly a venom. He forced me to write this.

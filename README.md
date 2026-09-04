@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mubeen
+Hi, My name is Mubeen
 ==============================================================================================================================
 
-Learner. Developer. Writer
+Learner. Coder. Writer
 --------------------------
 
 Hi, I write. Mostly code. Sometimes about Code stories. Based in Dubai. Ping me if you are nearby 🗼 Mubeen writes mostly in JavaScript and Solidity. Comfortable using NodeJs and GraphQL with SQL and NoSQL. Sometimes she writes in English too. Currently working on [SNIFF 🌿](https://sniff.so)
@@ -13,7 +13,6 @@ Hi, I write. Mostly code. Sometimes about Code stories. Based in Dubai. Ping me 
   . [SNIFF🌿](https://sniff.so)
   . [Viral Bucket 🥡](https://myviralbucket.com)
   . [bookish.world 📚](https://bookish.world)
-* 🧠  I'm learning Func | TON
 * 🤝  I'm open to collaborations on "Convince me with your story. Tech stack I can manage" 🫠
 * ⚡  I am secretly a venom. He forced me to write this.
 
